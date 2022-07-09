@@ -25,8 +25,3 @@ while j<=10:
 if flag==0:
     print("NIE")
 
-
-'''k=2
-while(k<10)
-print(a)'''
-
